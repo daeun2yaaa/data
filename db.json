@@ -1,7 +1,9 @@
 {
 	"diarycode": "1",
 	"date": "20200210",
-	"todayitems": [{
+	"todaytext": "집에 가고 싶어요"
+	"todayitems": [
+		{
 			"status": "많이 긁음",
 			"code": "1"
 		},
@@ -14,7 +16,8 @@
 			"code": "3"
 		}
 	],
-	"todayimages": [{
+	"todayimages": [
+		{
 			"url": "abcd"
 		},
 		{
@@ -23,6 +26,5 @@
 		{
 			"url": "abcd"
 		}
-	],
-	"todaytext": "집에 가고 싶어요"
+	]
 }

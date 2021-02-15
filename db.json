@@ -75,31 +75,6 @@
 				}
 			]
 		},
-		"skin": {
-			"items": [{
-					"status": "보습제바르기",
-					"code": "1"
-				},
-				{
-					"status": "목욕하기",
-					"code": "2"
-				},
-				{
-					"status": "가습기틀기",
-					"code": "3"
-				}
-			],
-			"images": [{
-					"url": "assets/images/daeun.jpeg"
-				},
-				{
-					"url": "assets/images/daeun.jpeg"
-				},
-				{
-					"url": "assets/images/daeun.jpeg"
-				}
-			]
-		},
 		"weather": {
 			"today": "1",
 			"items": [{

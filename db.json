@@ -1,30 +1,5 @@
 {
 	"diarycode": "1",
 	"date": "20200210",
-	"todaytext": "집에 가고 싶어요",
-	"todayitems": [
-		{
-			"status": "많이 긁음",
-			"code": "1"
-		},
-		{
-			"status": "홍조",
-			"code": "2"
-		},
-		{
-			"status": "가려움",
-			"code": "3"
-		}
-	],
-	"todayimages": [
-		{
-			"url": "abcd"
-		},
-		{
-			"url": "abcd"
-		},
-		{
-			"url": "abcd"
-		}
-	]
+	"todaytext": "집에 가고 싶어요"
 }

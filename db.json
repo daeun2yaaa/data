@@ -1,7 +1,7 @@
 {
 	"diary": {
-		"Diarycode": "1",
-		"Date": "2020-02-10",
+		"diarycode": "1",
+		"date": "2020-02-10",
 		"today": {
 			"items": [{
 					"status": "많이 긁음",
